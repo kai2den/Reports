@@ -1,1 +1,1 @@
-# Reports
+These reports are for educational purposes and do not directly share the content of TryHackMe rooms. The analyses, reports, and solutions are created solely for guidance and learning purposes. # Reports
